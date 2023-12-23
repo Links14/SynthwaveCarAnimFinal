@@ -12,15 +12,20 @@
 				"D:/UnrealProjects/SynthwaveCarAnimFinal/Content/Trevor/Car/S_ArrayStruct.uasset",
 				"D:/UnrealProjects/SynthwaveCarAnimFinal/Content/Trevor/Widgets/UI_Menu.uasset",
 				"D:/UnrealProjects/SynthwaveCarAnimFinal/Content/Trevor/Peripherals/BP_CameraShake.uasset",
-				"D:/UnrealProjects/SynthwaveCarAnimFinal/Content/Trevor/Road/RoadC_ObstructedLeft.uasset",
-				"D:/UnrealProjects/SynthwaveCarAnimFinal/Content/Trevor/Road/RoadC_ObstructedRight.uasset",
-				"D:/UnrealProjects/SynthwaveCarAnimFinal/Content/Trevor/Road/RoadC_ObstructedMiddle.uasset",
 				"D:/UnrealProjects/SynthwaveCarAnimFinal/Content/Cinematics/Takes/2023-12-11/Scene_1_20_Subscenes/BP_PawnCar_Scene_1_20.uasset",
 				"D:/UnrealProjects/SynthwaveCarAnimFinal/Content/Cinematics/Takes/2023-12-11/Scene_1_19_Subscenes/BP_PawnCar_Scene_1_19.uasset",
 				"D:/UnrealProjects/SynthwaveCarAnimFinal/Content/Trevor/Road/Base.uasset",
 				"D:/UnrealProjects/SynthwaveCarAnimFinal/Content/Trevor/Road/Ballards.uasset",
-				"D:/UnrealProjects/SynthwaveCarAnimFinal/Content/Trevor/Road/BP_BallardObstruction.uasset",
 				"D:/UnrealProjects/SynthwaveCarAnimFinal/Content/Trevor/Road/BP_Ballard.uasset",
+				"D:/UnrealProjects/SynthwaveCarAnimFinal/Content/Trevor/Game/UI_Menu.uasset",
+				"D:/UnrealProjects/SynthwaveCarAnimFinal/Content/Trevor/Game/UI_Menu1.uasset",
+				"D:/UnrealProjects/SynthwaveCarAnimFinal/Content/Trevor/Game/WBP_UI1.uasset",
+				"D:/UnrealProjects/SynthwaveCarAnimFinal/Content/Trevor/Game/GM_Endless.uasset",
+				"D:/UnrealProjects/SynthwaveCarAnimFinal/Content/Trevor/Game/GM_Endless1.uasset",
+				"D:/UnrealProjects/SynthwaveCarAnimFinal/Content/Trevor/Road/RoadC_ObstructedLeft.uasset",
+				"D:/UnrealProjects/SynthwaveCarAnimFinal/Content/Trevor/Road/RoadC_ObstructedRight.uasset",
+				"D:/UnrealProjects/SynthwaveCarAnimFinal/Content/Trevor/Road/RoadC_ObstructedMiddle.uasset",
+				"D:/UnrealProjects/SynthwaveCarAnimFinal/Content/Trevor/Road/BP_BallardObstruction.uasset",
 				"D:/UnrealProjects/SynthwaveCarAnimFinal/Content/Trevor/Car/BP_MovableCar.uasset",
 				"D:/UnrealProjects/SynthwaveCarAnimFinal/Content/Trevor/Road/RoadC_ObstructedLeft1.uasset",
 				"D:/UnrealProjects/SynthwaveCarAnimFinal/Content/Trevor/Road/BP_Road1.uasset",
@@ -265,7 +270,8 @@
 				"D:/UnrealProjects/MySCproject/SynthwaveCarAnim/Content/Trevor/CarMaterials/Wing.uasset",
 				"D:/UnrealProjects/MySCproject/SynthwaveCarAnim/Content/Trevor/CarMaterials/Wheel.uasset",
 				"D:/UnrealProjects/MySCproject/SynthwaveCarAnim/Content/Trevor/MI_Body.uasset",
-				"D:/UnrealProjects/MySCproject/SynthwaveCarAnim/Content/Trevor/MI_Material.uasset"
+				"D:/UnrealProjects/MySCproject/SynthwaveCarAnim/Content/Trevor/MI_Material.uasset",
+				"D:/UnrealProjects/Backups/SynthwaveCarAnimFinalFKd/Content/Trevor/Game/WBP_UI1.uasset"
 			]
 		}
 	]
